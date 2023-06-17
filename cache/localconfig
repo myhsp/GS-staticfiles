@@ -1,0 +1,17 @@
+[
+  {
+    "Key": "ToolBarItem",
+    "Name": "工具栏",
+    "Configs": "[{\"Title\":\"历史考勤\",\"Icon\":\"时钟\",\"PageUri\":\"/SmartBoardViews;component/HistorySignIn.xaml\",\"Type\":\"View\",\"ID\":\"7ff89e9d-5775-4ef6-911a-c8eb45f218c6\"}]"
+  },
+  {
+    "Key": "FixedViewTime",
+    "Name": "固定首页试图时间",
+    "Configs": "[]"
+  },
+  {
+    "Key": "ToolBarWebviewWhitelist",
+    "Name": "扩展栏浏览器白名单",
+    "Configs": "[{\"ID\":\"d8ab9192-2bc3-47bd-a6fd-0c32f0cda424\",\"Name\":\"Name\",\"Rule\":\"Rule\"}]"
+  }
+]
